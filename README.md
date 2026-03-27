@@ -1,16 +1,20 @@
-## Hi there 👋
+# Systems & Game Developer
 
-<!--
-**lostjared/lostjared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting engines, tools, and experimental software with modern C++.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I focus on low-level systems programming, game development, and building custom engines and tools. I enjoy working close to the hardware and exploring cross-platform development using technologies like SDL, OpenGL, and Vulkan.
+
+---
+
+## 🚀 Projects
+- **libmx2** – Cross-platform development library (SDL/OpenGL/Vulkan)
+- **MasterX** – Experimental OS-style environment for apps and games
+- **Shaders & Effects** – GLSL experiments and visual systems
+
+---
+
+## ⚙️ Tech
+C++20/23 • SDL2/3 • OpenGL • Vulkan • WebAssembly • CMake
