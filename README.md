@@ -20,7 +20,7 @@ I am a systems and game developer focused on C++ and cross-platform development.
 ---
 
 ## Technical Focus
-C++ • SDL • OpenGL • Vulkan • WebAssembly • CMake
+C++ • OpenCV • SDL • OpenGL • Vulkan • WebAssembly • CMake
 
 ---
 
