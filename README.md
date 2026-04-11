@@ -15,7 +15,9 @@ I am a systems and game developer focused on C++ and cross-platform development.
 - **acidcamGL** – Real-time OpenGL visual system for live performance, recording, and streaming
 - **ACMX2** – Live webcam effects powered by OpenGL shaders and audio-reactive processing
 - **acidcam-gpu** – CUDA-accelerated graphics and visual effects processing on Linux
-- **MasterX** – Experimental OS-style environment for custom applications and games
+
+  Documentation:
+  [ACMX2 Programming Guide](https://github.com/lostjared/acidcam-gpu/blob/main/acmx2-programming-guide.pdf) - [MX2 Documentation](https://lostsidedead.biz/libmx2/docs/)
 
 ---
 
