@@ -10,19 +10,25 @@ I am a systems and game developer focused on C++ and cross-platform development.
 ---
 
 ## Featured Projects
-- **libmx2** – Cross-platform C++ development library for graphics, multimedia, and application development with SDL2, OpenGL, and Vulkan
-- **Acid.Cam.v2.Qt** – Cross-platform visual effects and creative video software for desktop platforms
-- **acidcamGL** – Real-time OpenGL visual system for live performance, recording, and streaming
-- **ACMX2** – Live webcam effects powered by OpenGL shaders and audio-reactive processing
-- **acidcam-gpu** – CUDA-accelerated graphics and visual effects processing on Linux
+- **libmx2** - Cross-platform C++ development library for graphics, multimedia, and application development with SDL2, OpenGL, and Vulkan
+  
+  Documentation:
+  [MX2 (Engine) Online Documentation](https://lostsidedead.biz/libmx2/docs/)
+   
+- **acidcam-gpu** / **ACMX2** - CUDA-accelerated Psychedelic Glitch Transformations for live video processing on Linux 
 
   Documentation:
-  [ACMX2 Programming Guide](https://github.com/lostjared/acidcam-gpu/blob/main/acmx2-programming-guide.pdf) - [MX2 Documentation](https://lostsidedead.biz/libmx2/docs/)
+  [ACMX2 Programming Guide](https://github.com/lostjared/acidcam-gpu/blob/main/acmx2-programming-guide.pdf) 
+
+- **MXVM** - Custom Virtual Machine / Compiler written in C++20
+
+   Documentation:
+   [MXVM Reference Manual](https://lostsidedead.biz/MXVM/doc/MXVM_Reference.pdf) - [MXVM Online Documentation](https://lostsidedead.biz/MXVM/doc/html/)
 
 ---
 
 ## Technical Focus
-C++ • OpenCV • SDL • OpenGL • Vulkan • WebAssembly • CMake
+C++ • Unix/Linux • OpenCV • SDL • OpenGL • Vulkan • WebAssembly • CMake  
 
 ---
 
