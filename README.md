@@ -18,7 +18,7 @@ I am a systems and game developer focused on C++ and cross-platform development.
 - **acidcam-gpu** / **ACMX2** - CUDA-accelerated Psychedelic Glitch Transformations for live video processing on Linux 
 
   Documentation:
-  [ACMX2 Programming Guide](https://github.com/lostjared/acidcam-gpu/blob/main/acmx2-programming-guide.pdf) 
+  [ACMX2 Programming Guide](https://github.com/lostjared/acidcam-gpu/blob/main/acmx2-programming-guide.pdf) - [Full Documentation](https://lostsidedead.biz/acmx2/docs/)
 
 - **MXVM** - Custom Virtual Machine / Compiler written in C++20
 
