@@ -1,4 +1,4 @@
-# Systems & Game Developer
+# Creative / Systems Developer
 
 Building cross-platform engines, graphics tools, and experimental software with modern C++.
 
