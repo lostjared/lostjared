@@ -11,7 +11,7 @@ I am a systems and game developer focused on C++ and cross-platform development.
 
 ## Featured Projects
 
-- **MXVK** - Cross-platform C++ Vulkan 1.4 Game Engine
+- **MXVK** - Cross-platform C++ Vulkan Game Engine
   
   Documentation:
   [MXVK (Engine) Online Documentation](https://lostsidedead.biz/MXVK)
