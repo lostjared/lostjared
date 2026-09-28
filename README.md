@@ -21,7 +21,7 @@ I am a systems and game developer focused on C++ and cross-platform development.
   Documentation:
   [MX2 (Engine) Online Documentation](https://lostsidedead.biz/libmx2/docs/)
    
-- **acidcam-gpu** / **ACMX2** - CUDA-accelerated real-time video shader engine
+- **acidcam-gpu** / **ACMX** - CUDA-accelerated real-time video shader engine
 
   Documentation:
   [ACMX2 Programming Guide](https://github.com/lostjared/acidcam-gpu/blob/main/acmx2-programming-guide.pdf) - [Full Documentation](https://lostsidedead.biz/acmx2/docs/)
