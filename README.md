@@ -39,4 +39,4 @@ C++ • Unix/Linux • OpenCV • SDL • OpenGL • Vulkan • WebAssembly • 
 ---
 
 ## Languages
-C++ • Rust • C • GLSL • JavaScript • Python • Assembly • Java • Perl • Shell • HTML • Objective-C/C++
+C++ • Rust • C • GLSL • CUDA • JavaScript • Python • Assembly • Java • Perl • Shell • HTML • Objective-C/C++
