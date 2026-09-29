@@ -41,5 +41,5 @@ C++ • Unix/Linux • OpenCV • SDL • OpenGL • Vulkan • WebAssembly • 
 ## Languages
 C++ • Rust • C • GLSL  • JavaScript • Python • Assembly • Java • Perl • Shell • HTML • Objective-C/C++
 
-##  Libraries
+## Favorite Libraries
 OpenGL • Vulkan • SDL •  Qt • OpenCV
