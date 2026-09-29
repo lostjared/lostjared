@@ -7,6 +7,8 @@ Building cross-platform engines, graphics tools, and experimental software with 
 ## About Me
 I am a systems and game developer focused on C++ and cross-platform development. My work spans graphics tools, creative software, engine development, shader-based rendering, debuggers, virtual machines, and low-level programming across native and web platforms. I am especially drawn to projects that combine systems design, performance, multimedia, and creative visual technology.
 
+Visit my [YouTube Channel](https://youtube.com/+JaredBruni) channel for demonstrations of the software I develop:
+
 ---
 
 ## Featured Projects
